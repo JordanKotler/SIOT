@@ -5,6 +5,7 @@
 - **python_scripts** is a folder with all the scripts that were run on the Raspberry Pi for data collection:
     - sampling.py is the main script which when run, calls *sensing.py*, *gsheets.py*, *crypto.py* and *failsafe.py*
     - The password for the email address in failsafe.py has been *removed* for security reasons. Please enter your own gmail address and password credentials
+    - MQ4duino.ino is the script used to collected MQ4 sensor values
     
 
  
