@@ -251,7 +251,7 @@ function cryptoMean(data) {
 	});
 }
 
-parsedata("../data/toiletusage.csv", toiletGraph)
-parsedata("../data/cryptodata.csv", cryptoGraph)
-parsedata("../data/toiletusage.csv", toiletMean)
-parsedata("../data/cryptodata.csv", cryptoMean)
+parsedata("./data/toiletusage.csv", toiletGraph)
+parsedata("./data/cryptodata.csv", cryptoGraph)
+parsedata("./data/toiletusage.csv", toiletMean)
+parsedata("./data/cryptodata.csv", cryptoMean)
