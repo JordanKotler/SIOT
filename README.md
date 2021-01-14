@@ -13,12 +13,12 @@
 
 Please visit the GitHub pages site which is hosting the web application at this link: https://jordankotler.github.io/SIOT/
 
-### Data analysis
+### Data analysis and web app
  -  **data_analysis** contains the Jupyter notebook and data from Google sheets in CSV format
  - The output dataframe from the Jupyter notebook was saved as a CSV to be parsed into Javascript in JSON format
  - *create-graph.js* contains the Javascript for the graph functions using CS.js and Papaparse
--  *index.html* contains the html for the website, to organise text and plots
-    
+ -  *index.html* contains the html for the website, to organise text and plot
+ - For a more indepth explanation the webapp please visit https://github.com/JordanKotler/SIOT/tree/main/docs
  
  
  
