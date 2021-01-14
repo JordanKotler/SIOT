@@ -12,8 +12,8 @@ PapaParse: http://papaparse.com/
 https://jordankotler.github.io/SIOT/
 
 
-### Only Requirement for local hosting
-You need a web server to run the website. I used python to initiate a web server. Alternatively you can access
+### Only requirement for local hosting
+You need a web server to run the website locally. I used python to initiate a web server. Alternatively you can access the site from the link above.
 
 ```
 python --version
