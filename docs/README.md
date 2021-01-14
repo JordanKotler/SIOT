@@ -1,6 +1,6 @@
-# Web application
+# graphs-from-csv
 
-This repository constains the code ot create website graphs from CSV files. This repository uses c3.js and PapaParse.
+An example repository for creating website graphs from CSV files. This repository uses c3.js and PapaParse.
 
 ### Graph/Chart Library
 c3.js: http://c3js.org/
@@ -8,12 +8,8 @@ c3.js: http://c3js.org/
 ### CSV/JSON Parsing Library
 PapaParse: http://papaparse.com/
 
-### To visit the site, please go to the GitHub pages link below
-https://jordankotler.github.io/SIOT/
-
-
-### Only requirement for local hosting
-You need a web server to run the website locally. I used python to initiate a web server. Alternatively you can access the site from the link above.
+### Only Requirement
+You need a web server. I used python to initiate a web server.
 
 ```
 python --version
@@ -21,7 +17,7 @@ Python 2.7.10
 ```
 
 ```
-cd docs/
+cd graphs-from-csv/
 python -m SimpleHTTPServer
 ```
 
