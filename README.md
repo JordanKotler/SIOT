@@ -11,6 +11,8 @@
  
 ## Part 2: Internet of things (Front end web application)
 
+Please visit the GitHub pages site which is hosting the web application at this link: https://jordankotler.github.io/SIOT/
+
 ### Data analysis
  -  **data_analysis** contains the Jupyter notebook and data from Google sheets in CSV format
  - The output dataframe from the Jupyter notebook was saved as a CSV to be parsed into Javascript in JSON format
